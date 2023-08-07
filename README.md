@@ -1,6 +1,6 @@
 # Vibhanshu's Portfolio
 
-!["D:\web development projects\portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-illustration-vector.jpg"](path/to/your/banner/image.jpg)
+<!--["D:\web development projects\portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-illustration-vector.jpg"](path/to/your/banner/image.jpg) -->
 
 Welcome to my GitHub portfolio! This repository contains a collection of my projects, code samples, and other contributions. Feel free to explore and provide any feedback you may have.
 
